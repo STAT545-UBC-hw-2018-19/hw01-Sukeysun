@@ -1,6 +1,6 @@
 <table><tr><td bgcolor=#D1EEEE>
 
-<center> <h1> Welcome to my Homepage! </h1> </center> 
+<center><h1> Welcome to my Homepage!</h1></center> 
 
 ![Alt test](http://wallpoper.com/images/00/43/82/36/cute-kitten_00438236.jpg)
 ## Brief Description 
