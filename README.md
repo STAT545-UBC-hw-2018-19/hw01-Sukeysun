@@ -80,8 +80,8 @@ for(j in 2:30)
 ### Other fun coding
 **clik the picture and find the code**
 <figure class="half">
-    <img src="game.png">
-    <img src="turtle.jpg">
+    <img width="150" height="150" src="game.png">
+    <img width="150" height="150" src="turtle.jpeg">
 </figure>
 
 
