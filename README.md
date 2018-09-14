@@ -1,4 +1,4 @@
-<table><tr><td bgcolor=#D1EEEE>
+
 
 <div align=center><h1> Welcome to my Homepage!</h1></div>
 
@@ -22,7 +22,7 @@
 
 ### Why I take this course
 <div style="text-align: left">  
-&emsp;&emsp;During my internship in this summer, I used python for machine learning but some of my colleagues used R, then I think I also need learn something about R for my working skills. So I'm Soooo Glad to take this course.
+&emsp;&emsp; I'm so Glad to take this course. During my internship in this summer, I used python for machine learning but some of my colleagues used R, then I realize I also need learn something about R for my working skills. 
 </div>
 
 ### My Hobbies
@@ -94,4 +94,4 @@ for(j in 2:30)
 3.[Keyboard Shortcuts](https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts)  
 
 
-# D1EEEE</td></tr></table>
+
