@@ -1,0 +1,39 @@
+---
+title: "Data exploration"
+author: "sukey"
+date: "September 14, 2018"
+output: github_document 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## List all dataset in the installed packages
+
+```{r cars}
+data(package = .packages(all.available = TRUE)) # list all dataset in all installed packages
+```
+
+## Choose one 
+
+I chose the city dataset in boot package. It shows Population of U.S. Cities
+
+```{r pressure, echo=FALSE}
+library(boot)
+print(city)
+```
+
+## Explore it
+
+```{r}
+head(city,n = 3L)  # return the first n rows of dataframe. default is 6
+tail(city,n = 2L)  # return the last n rows of dataframe. default is 6?
+str(city)          #return the type of dataframe
+colnames(city)     #return columns names of dataframe
+nrow(city)         # return row number of dataframe
+ncol(city)         #return column number of dataframe
+subcity <- city[0:6,"u"] # return first 6 rows of a selected feature "u"
+summary(city)      #return some math results
+is.na(city)        # check if there is a null value in dataframe
+```
