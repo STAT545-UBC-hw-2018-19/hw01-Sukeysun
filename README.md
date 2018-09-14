@@ -11,6 +11,7 @@
     + About me
     + Fun R coding
   * some pictures 
+  * coding to draw these pictures
   
   
 ---
