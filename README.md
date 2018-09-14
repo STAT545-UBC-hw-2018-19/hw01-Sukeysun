@@ -81,7 +81,7 @@ for(j in 2:30)
 **clik the picture and find the code**
 <div align=center>
 <figure class="half">
-    <img width="150" height="150" src="game.png"> ![game]](http://baidu.com)  
+    <img width="150" height="150" src="game.png"> (http://baidu.com)  
     <img width="150" height="150" src="turtle.jpeg">
 </figure>
 </div>
