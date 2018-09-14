@@ -9,7 +9,7 @@
 - In this repository, you can find:
   * README.md:
     + About me
-    + Fun R coding
+    + Use R for fun
   * some pictures 
   * coding to draw these pictures
   
@@ -30,7 +30,7 @@
 |    **Hobbies**    |  **rate**  |
 |:---:|:---:|
 | Movies            | :blush:    |
-| Travelling        | :smile:    |
+| Travel            | :smile:    |
 | Cooking           | :laughing: |
 
 
@@ -38,7 +38,7 @@
 
 
 
-## Fun R coding
+## Use R for fun
 ### coding
 
 **This is a R coding to generate a fun pic.**
