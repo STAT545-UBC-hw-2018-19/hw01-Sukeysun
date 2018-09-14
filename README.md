@@ -75,15 +75,16 @@ for(j in 2:30)
 ```
 ### Wanna see the effect?
 <div align=center><img width="150" height="150" src="Rplot.jpeg"/></div>
-<div align=center> 'Try it and have fun!'</div>
+<div align=center>`Try it and have fun!`</div>
 
 ### Other fun coding
 **clik the picture and find the code**
+<div align=center>
 <figure class="half">
-    <img width="150" height="150" src="game.png">
+    <img width="150" height="150" src="game.png"> [![baidu]](http://baidu.com)  
     <img width="150" height="150" src="turtle.jpeg">
 </figure>
-
+</div>
 
 ### Some useful link for R
 1.[RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)  
