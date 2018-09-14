@@ -25,13 +25,13 @@
 </div>
 
 ### My Hobbies
-<div align=center>
+
 |    **Hobbies**    |  **rate**  |
 |:---:|:---:|
 | Movies            | :blush:    |
 | Travelling        | :smile:    |
 | Cooking           | :laughing: |
-</div>
+
 
 ---
 
@@ -75,7 +75,14 @@ for(j in 2:30)
 ```
 ### Wanna see the effect?
 <div align=center><img width="150" height="150" src="Rplot.jpeg"/></div>
-<div align=center> **<font color="#000066"> Try it and have fun!</font><br />** </div>
+<div align=center> 'Try it and have fun!'</div>
+
+### Other fun coding
+**clik the picture and find the code**
+<figure class="half">
+    <img src="game.png">
+    <img src="turtle.jpg">
+</figure>
 
 
 ### Some useful link for R
