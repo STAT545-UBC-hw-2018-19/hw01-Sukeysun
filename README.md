@@ -76,14 +76,15 @@ for(j in 2:30)
 ```
 ### Wanna see the effect?
 <div align=center><img width="150" height="150" src="Rplot.jpeg"/></div>
-<div align=center>`Try it and have fun!`</div>
+
+
 
 ### Other fun coding
-**clik the picture and find the code**
+Click `picture` and find the `code` 
 <div align=center>
 <figure class="half">
     [<img width="150" height="150" src="game.png">](https://github.com/STAT545-UBC-students/hw01-Sukeysun/blob/master/funcode.R)  
-    <img width="150" height="150" src="turtle.jpeg">(https://github.com/STAT545-UBC-students/hw01-Sukeysun/blob/master/funcode.R)
+    [<img width="150" height="150" src="turtle.jpeg">](https://github.com/STAT545-UBC-students/hw01-Sukeysun/blob/master/funcode.R)
 </figure>
 </div>
 
