@@ -79,9 +79,9 @@ for(j in 2:30)
 
 
 ### Some useful link for R
--1.[RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)  
--2.[Programming in R](http://manuals.bioinformatics.ucr.edu/home/programming-in-r)  
--3.[Keyboard Shortcuts](https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts)  
+1.[RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)  
+2.[Programming in R](http://manuals.bioinformatics.ucr.edu/home/programming-in-r)  
+3.[Keyboard Shortcuts](https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts)  
 
 
 
