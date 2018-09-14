@@ -82,15 +82,12 @@ for(j in 2:30)
 **clik the picture and find the code**
 <div align=center>
 <figure class="half">
-    [<img width="150" height="150" src="game.png">] (http://baidu.com)  
-    <img width="150" height="150" src="turtle.jpeg">
+    [<img width="150" height="150" src="game.png">](https://github.com/STAT545-UBC-students/hw01-Sukeysun/blob/master/funcode.R)  
+    <img width="150" height="150" src="turtle.jpeg">(https://github.com/STAT545-UBC-students/hw01-Sukeysun/blob/master/funcode.R)
 </figure>
 </div>
 
 
-[<img width="150" height="150" src="game.png">](http://baidu.com)  
-
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
 ### Some useful link for R
 1.[RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)  
 2.[Programming in R](http://manuals.bioinformatics.ucr.edu/home/programming-in-r)  
