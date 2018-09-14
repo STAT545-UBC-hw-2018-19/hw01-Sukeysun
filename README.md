@@ -1,6 +1,6 @@
 <table><tr><td bgcolor=#D1EEEE>
 
-<center><h1> Welcome to my Homepage!</h1></center> 
+<div align=center><h1> Welcome to my Homepage!</h1></div>
 
 ![Alt test](http://wallpoper.com/images/00/43/82/36/cute-kitten_00438236.jpg)
 ## Brief Description 
@@ -74,7 +74,7 @@ for(j in 2:30)
 ```
 ### Wanna see the effect?
 <div align=center><img width="150" height="150" src="Rplot.jpeg"/></div>
-![](Rplot.jpeg)
+
 
 ### Some useful link for R
 1.[RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)  
