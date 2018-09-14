@@ -91,6 +91,7 @@ for(j in 2:30)
 2.[Programming in R](http://manuals.bioinformatics.ucr.edu/home/programming-in-r)  
 3.[Keyboard Shortcuts](https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts)  
 
-
+[![baidu]](http://baidu.com)  
+[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo" 
 
 # D1EEEE</td></tr></table>
