@@ -1,6 +1,6 @@
 <table><tr><td bgcolor=#D1EEEE>
 
-# <center> <h1> Welcome to my Homepage! </h1> </center> 
+<center> <h1> Welcome to my Homepage! </h1> </center> 
 
 ![Alt test](http://wallpoper.com/images/00/43/82/36/cute-kitten_00438236.jpg)
 ## Brief Description 
@@ -80,4 +80,4 @@ for(j in 2:30)
 2.[Programming in R](http://manuals.bioinformatics.ucr.edu/home/programming-in-r)
 3.
 
-#D1EEEE</td></tr></table>
+# D1EEEE</td></tr></table>
