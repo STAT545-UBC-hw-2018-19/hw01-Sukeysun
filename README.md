@@ -82,11 +82,10 @@ for(j in 2:30)
 ### Other fun coding
 Click `picture` and find the `code` 
 <div align=center>
-<figure class="half">
-    [<img width="150" height="150" src="game.png">](https://github.com/STAT545-UBC-students/hw01-Sukeysun/blob/master/funcode.R)  
-    [<img width="150" height="150" src="turtle.jpeg">](https://github.com/STAT545-UBC-students/hw01-Sukeysun/blob/master/funcode.R)
-</figure>
+    [<img width="150" height="150" src="game.png">](https://github.com/STAT545-UBC-students/hw01-Sukeysun/blob/master/funcode.R) 
 </div>
+    [<img width="150" height="150" src="turtle.jpeg">](https://github.com/STAT545-UBC-students/hw01-Sukeysun/blob/master/funcode.R)
+
 
 
 ### Some useful link for R
