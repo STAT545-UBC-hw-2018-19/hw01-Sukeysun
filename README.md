@@ -2,7 +2,7 @@
 
 # <center> <h1> Welcome to my Homepage! </h1> </center> 
 
-<center>![Alt test](http://wallpoper.com/images/00/43/82/36/cute-kitten_00438236.jpg)</center>
+![Alt test](http://wallpoper.com/images/00/43/82/36/cute-kitten_00438236.jpg)
 ## Brief Description 
 &emsp;&emsp;This repository is for my assignment 1 of [STAT 545](http://stat545.com/Classroom/)
   
@@ -32,7 +32,7 @@
 | Cooking           | :laughing: |
 
 
-
+---
 
 
 
@@ -76,7 +76,8 @@ for(j in 2:30)
 ![](Rplot.jpeg)
 
 ### Some useful link for R
-1.![RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
-2.![Programming in R](http://manuals.bioinformatics.ucr.edu/home/programming-in-r)
+1.[RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
+2.[Programming in R](http://manuals.bioinformatics.ucr.edu/home/programming-in-r)
 3.
+
 #D1EEEE</td></tr></table>
