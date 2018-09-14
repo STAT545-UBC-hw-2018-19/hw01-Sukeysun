@@ -73,11 +73,12 @@ for(j in 2:30)
 }
 ```
 ### Wanna see the effect?
+<div align=center><img width="150" height="150" src="Rplot.jpeg"/></div>
 ![](Rplot.jpeg)
 
 ### Some useful link for R
-1.[RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
-2.[Programming in R](http://manuals.bioinformatics.ucr.edu/home/programming-in-r)
+1.[RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)  
+2.[Programming in R](http://manuals.bioinformatics.ucr.edu/home/programming-in-r)  
 3.
 
 # D1EEEE</td></tr></table>
