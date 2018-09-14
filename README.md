@@ -74,11 +74,14 @@ for(j in 2:30)
 ```
 ### Wanna see the effect?
 <div align=center><img width="150" height="150" src="Rplot.jpeg"/></div>
+<div align=center> <font color="#000066"> **Try it and have fun!**</font><br /> </div>
 
 
 ### Some useful link for R
-1.[RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)  
-2.[Programming in R](http://manuals.bioinformatics.ucr.edu/home/programming-in-r)  
-3.
+-1.[RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
+-2.[Programming in R](http://manuals.bioinformatics.ucr.edu/home/programming-in-r)
+-3.[Keyboard Shortcuts](https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts)
+
+
 
 # D1EEEE</td></tr></table>
