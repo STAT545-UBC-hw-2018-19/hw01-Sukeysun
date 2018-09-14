@@ -1,2 +1,2 @@
 
-![](Rplot.jpg)
+![](Rplot.jpeg)
