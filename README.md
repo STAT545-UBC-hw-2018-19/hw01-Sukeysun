@@ -80,7 +80,8 @@ for(j in 2:30)
 
 
 ### Other fun coding
-Click `picture` and find the `code` 
+Click `picture` and find the `code`   
+
 [<img width="150" height="150" src="game.png">](https://github.com/STAT545-UBC-students/hw01-Sukeysun/blob/master/funcode.R) 
 [<img width="150" height="150" src="turtle.jpeg">](https://github.com/STAT545-UBC-students/hw01-Sukeysun/blob/master/funcode.R)
 
