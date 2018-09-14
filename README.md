@@ -86,7 +86,7 @@ Click `picture` and find the `code`
 [<img width="300" height="300" src="turtle.jpeg">](https://github.com/STAT545-UBC-students/hw01-Sukeysun/blob/master/funcode.R)
 
 ### Some useful link for R
-1.[RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)  
+1.[RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)    
 2.[Programming in R](http://manuals.bioinformatics.ucr.edu/home/programming-in-r)  
 3.[Keyboard Shortcuts](https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts)  
 
