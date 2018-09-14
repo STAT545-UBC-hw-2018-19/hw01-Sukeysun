@@ -86,6 +86,9 @@ for(j in 2:30)
 </figure>
 </div>
 
+
+ [<img width="150" height="150" src="game.png">] (http://baidu.com)  
+
 ### Some useful link for R
 1.[RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)  
 2.[Programming in R](http://manuals.bioinformatics.ucr.edu/home/programming-in-r)  
