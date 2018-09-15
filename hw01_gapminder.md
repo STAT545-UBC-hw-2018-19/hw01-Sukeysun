@@ -19,21 +19,91 @@ data(package = .packages(all.available = TRUE)) # list all dataset in all instal
 Choose one
 ----------
 
-I choose the agriculture dataset in cluster package. It shows European Union Agricultural Workforces
+I chose the city dataset in boot package. It shows Population of U.S. Cities
 
-    ##        x    y
-    ## B   16.8  2.7
-    ## DK  21.3  5.7
-    ## D   18.7  3.5
-    ## GR   5.9 22.2
-    ## E   11.4 10.9
-    ## F   17.8  6.0
-    ## IRL 10.9 14.0
-    ## I   16.6  8.5
-    ## L   21.0  3.5
-    ## NL  16.4  4.3
-    ## P    7.8 17.4
-    ## UK  14.0  2.3
+    ##      u   x
+    ## 1  138 143
+    ## 2   93 104
+    ## 3   61  69
+    ## 4  179 260
+    ## 5   48  75
+    ## 6   37  63
+    ## 7   29  50
+    ## 8   23  48
+    ## 9   30 111
+    ## 10   2  50
 
 Explore it
 ----------
+
+``` r
+head(city,n = 3L)  # return the first n rows of dataframe. default is 6
+```
+
+    ##     u   x
+    ## 1 138 143
+    ## 2  93 104
+    ## 3  61  69
+
+``` r
+tail(city,n = 2L)  # return the last n rows of dataframe. default is 6?
+```
+
+    ##     u   x
+    ## 9  30 111
+    ## 10  2  50
+
+``` r
+str(city)          #return the type of dataframe
+```
+
+    ## 'data.frame':    10 obs. of  2 variables:
+    ##  $ u: num  138 93 61 179 48 37 29 23 30 2
+    ##  $ x: num  143 104 69 260 75 63 50 48 111 50
+
+``` r
+colnames(city)     #return columns names of dataframe
+```
+
+    ## [1] "u" "x"
+
+``` r
+nrow(city)         # return row number of dataframe
+```
+
+    ## [1] 10
+
+``` r
+ncol(city)         #return column number of dataframe
+```
+
+    ## [1] 2
+
+``` r
+subcity <- city[0:6,"u"] # return first 6 rows of a selected feature "u"
+summary(city)      #return some math results
+```
+
+    ##        u                x         
+    ##  Min.   :  2.00   Min.   : 48.00  
+    ##  1st Qu.: 29.25   1st Qu.: 53.25  
+    ##  Median : 42.50   Median : 72.00  
+    ##  Mean   : 64.00   Mean   : 97.30  
+    ##  3rd Qu.: 85.00   3rd Qu.:109.25  
+    ##  Max.   :179.00   Max.   :260.00
+
+``` r
+is.na(city)        # check if there is a null value in dataframe
+```
+
+    ##        u     x
+    ## 1  FALSE FALSE
+    ## 2  FALSE FALSE
+    ## 3  FALSE FALSE
+    ## 4  FALSE FALSE
+    ## 5  FALSE FALSE
+    ## 6  FALSE FALSE
+    ## 7  FALSE FALSE
+    ## 8  FALSE FALSE
+    ## 9  FALSE FALSE
+    ## 10 FALSE FALSE
